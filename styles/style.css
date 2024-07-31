@@ -24,7 +24,7 @@ html{
 body{
     height: 100vh;
     background-color: var(--cor-de-fundo);
-    background-image: url(assets/microfone.png);
+    background-image: url(.assets/microfone.png);
     background-position: right top;
     background-repeat: no-repeat;
     background-size: 65%;
